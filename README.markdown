@@ -8,16 +8,16 @@ by [EDSON MOISES CORTES MOLINA].
 
 The directory structure of a generated Ruby on Rails application:
 
-  |-- app
-  |   |-- assets
-  |       |-- images
-  |       |-- javascripts
-  |       `-- stylesheets
-  |   |-- controllers
-  |   |-- helpers
-  |   |-- mailers
-  |   |-- models
-  |   `-- views
+ - |-- app
+ - |   |-- assets
+ - |       |-- images
+ - |       |-- javascripts
+ - |       `-- stylesheets
+ - |   |-- controllers
+ - |   |-- helpers
+ - |   |-- mailers
+ - |   |-- models
+ - |   `-- views
   |       `-- layouts
   |-- config
   |   |-- environments
